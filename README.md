@@ -3,17 +3,14 @@
     <h1> Hi there, I'm Usama Jalal👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/usamaJ17"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
-  
+  <a href="https://github.com/usamaJ17"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20PHP%20|%20Enthusiast;Footballer%20;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="Usama Jalal" height="30" width="40" /></a>
 <a href="https://leetcode.com/usamaJ17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://twitter.com/SaadFar80645693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saad-fareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16696790/usamaJ17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://www.instagram.com/usamaJ17_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="usamaJ17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/usama-jalal-1671a11b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="usamaJ17" height="30" width="40" /></a>
+<a href="https://www.facebook.com/usama.jalal.583" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="usamaJ17" height="30" width="40" /></a>
+  
 </p>
 <br>
 <h2 align="center"> Contribution Graph: </h2>
