@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Usama Jalal👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/usamaJ17"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20PHP%20|%20Enthusiast;Footballer%20;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/usamaJ17"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;LARAVEL%20|%20PHP%20|%20JAVASCRIPT;Footballer%20;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
