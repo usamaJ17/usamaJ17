@@ -15,7 +15,8 @@
 <br>
 <h2 align="center"> Streak: </h2>
 
-</div><span>![usamaJ17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamaJ17&theme=vue-dark&hide_border=true)</span><span>![usamaJ17's Stats](https://github-readme-stats.vercel.app/api?username=usamaJ17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</span></div>
+![usamaJ17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamaJ17&theme=vue-dark&hide_border=true)
+![usamaJ17's Stats](https://github-readme-stats.vercel.app/api?username=usamaJ17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
