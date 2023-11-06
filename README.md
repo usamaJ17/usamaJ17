@@ -15,8 +15,8 @@
 <br>
 <h2 align="center"> Streak: </h2>
 
-
 ![usamaJ17's Stats](https://github-readme-stats.vercel.app/api?username=usamaJ17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![usamaJ17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaJ17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
