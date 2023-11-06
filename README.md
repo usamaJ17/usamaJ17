@@ -1,17 +1,11 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Usama Jalal👋<a href="#"></h1>
+    <h1> Hi there, I'm Adnan Khan👋<a href="#"></h1>
   </div>
 <p align="center">
   <a href="https://github.com/usamaJ17"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;LARAVEL%20|%20PHP%20|%20JAVASCRIPT;Footballer%20⚽;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
-<h1 align="center"> Connect with me: </h1>
-<p align="center">
-<a href="https://leetcode.com/usamaJ17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/usama-jalal-1671a11b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="usamaJ17" height="30" width="40" /></a>
-<a href="https://www.facebook.com/usama.jalal.583" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="usamaJ17" height="30" width="40" /></a>
-  
-</p>
+
 <br>
 <h2 align="center"> Streak: </h2>
 
