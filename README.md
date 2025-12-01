@@ -35,7 +35,7 @@
     <br /><br />
     <!-- Backend / DevOps -->
     <img
-      src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,vscode,postman,playwright&perline=8"
+      src="https://skillicons.dev/icons?i=mysql,postgres,docker,azure,git,linux,vscode,postman,playwright&perline=8"
     />
   </a>
 
@@ -72,26 +72,16 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-
-  <!-- Stats Card -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180em"
-      src="https://my-github-stats-mocha.vercel.app/api?username=usamaJ17&show_icons=true&theme=radical&hide_border=true&count_private=true"
-      alt="Usama's Stats"
-    />
-  </a>
-
-  <!-- Top Languages -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180em"
-      src="https://my-github-stats-mocha.vercel.app/api/top-langs/?username=usamaJ17&layout=compact&theme=radical&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://my-github-stats-mocha.vercel.app/api?username=usamaJ17&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    alt="Usama's Stats"
+  />
+  <img
+    height="180em"
+    src="https://my-github-stats-mocha.vercel.app/api/top-langs/?username=usamaJ17&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
@@ -106,15 +96,21 @@
 <!-- Trophies Section -->
 
 <div align="center">
-  <h2>🏆 Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=usamaJ17&theme=radical&no-frame=true&margin-w=15&row=1"
-      alt="Trophies"
-    />
-  </a>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=usamaJ17&theme=radical&hide_border=true"
+    alt="Streak Stats"
+  />
+  <br /><br />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=usamaJ17&theme=radical&no-frame=true&margin-w=15&row=1"
+    alt="Trophies"
+  />
 </div>
 
 <div align="center">
-  <i>Let's connect and build something amazing!</i>
+  <i>Let's connect and build something amazing! 🌐</i>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/usama-jalal17/" target="_blank"
+    >LinkedIn</a
+  >
 </div>
