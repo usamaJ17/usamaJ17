@@ -84,15 +84,6 @@
   />
 </div>
 
-<div align="center">
-  <!-- Streak Stats -->
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=usamaJ17&theme=radical&hide_border=true"
-    alt="Streak Stats"
-  />
-</div>
-
 <!-- Trophies Section -->
 
 <div align="center">
@@ -110,7 +101,10 @@
 <div align="center">
   <i>Let's connect and build something amazing! 🌐</i>
   <br /><br />
-  <a href="https://www.linkedin.com/in/usama-jalal17/" target="_blank"
-    >LinkedIn</a
-  >
+  <a href="https://www.linkedin.com/in/usama-jalal17/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
