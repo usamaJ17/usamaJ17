@@ -2,46 +2,40 @@
   <!-- Header & Typing Animation -->
 
   <h1>Hi there, I'm Usama Jalal 👋</h1>
-
-  <a href="https://github.com/usamaJ17">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Automation+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Apps+%F0%9F%A7%A0;Full+Stack+Web+Developer+%F0%9F%92%BB;Open+Source+Contributor;Always%20learning%20new%20Technology%20%F0%9F%93%9A"
-      alt="Typing SVG"
-    />
-  </a>
-
-  <!-- Intro Text -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=🤖+Automation+Engineer;💻+Full+Stack+Web+Developer;🧠+Building+Agentic+AI+Apps;📚+Always+Learning+New+Technology;🌐+Open+Source+Contributor"
+    alt="Typing SVG"
+  />
 
   <p>
-    I am an <b>Automation Engineer</b> specializing in quality assurance with
-    <b>WDIO, Playwright, and Cypress</b>. My background is in
-    <b>Full Stack Development</b> (Laravel/PHP), and I am currently passionate
-    about building <b>AI Agentic Applications</b> using LLMs like
+    I am an <b>Automation Engineer</b> specializing in
+    <b>WDIO, Playwright, and Cypress</b>.<br />
+    Background in <b>Full Stack Development (Laravel/PHP)</b>. Passionate about
+    building <b>AI Agentic Applications</b> using LLMs like
     <b>Gemini & OpenAI</b>.
   </p>
 
   <!-- Profile Views Counter -->
-  <!-- 
+
   <p>
     <img
       src="https://komarev.com/ghpvc/?username=usamaJ17&style=for-the-badge&color=blueviolet"
       alt="Profile Views"
     />
-  </p> -->
+  </p>
 
   <!-- Tech Stack Section -->
 
   <h2>🛠️ Languages & Technologies</h2>
-
-  <!-- Skill Icons -->
-
   <a href="https://skillicons.dev">
+    <!-- Frontend / Languages -->
     <img
       src="https://skillicons.dev/icons?i=php,laravel,js,ts,py,jquery,tailwind,alpinejs&perline=8"
     />
-    <br />
+    <br /><br />
+    <!-- Backend / DevOps -->
     <img
-      src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,vscode,postman,selenium,playwright&perline=8"
+      src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,vscode,postman,playwright&perline=8"
     />
   </a>
 
